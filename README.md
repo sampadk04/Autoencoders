@@ -12,10 +12,10 @@ Implementation of Variational AutoEncoder has been inspired from the original Au
 Here are some demonstration from the codes:
 
 - Reconstruction of Simple AutoEncoder:
-![](sample_images/SAE_reconstruction.jpeg)
+<img src="sample_images/SAE_reconstruction.jpeg" alt="SAE_reconstruction" width="200"/>
 
 - Reconstruction of De-Noising AutoEncoder:
-![](sample_images/DAE_reconstruction.jpeg)
+<img src="sample_images/DAE_reconstruction.jpeg" alt="DAE_reconstruction" width="200"/>
 
 - Interpolation by Variational AutoEncoder:
-![](sample_images/VAE_interpolation.jpeg)
+<img src="sample_images/VAE_interpolation.jpeg" alt="VAE_interpolation" width="200"/>
